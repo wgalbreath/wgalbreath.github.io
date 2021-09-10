@@ -1,4 +1,4 @@
-@media screen and (max-width: 800px) {
+@media only screen and (min-width: 200px) {
     body {
       background-color: tan;
     }
