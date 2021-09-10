@@ -3,9 +3,14 @@
       background-color: blue;
     }
 }
-  
+
 a {
-    color: aqua;
+    color: lime;
+}
+
+a:hover {
+    color: blue;
+    background-color: yellow;
 }
 
 h1 {
