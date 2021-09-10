@@ -1,0 +1,46 @@
+<html>
+    <head>
+            <style>
+            li {
+
+            }
+            li.menu {
+                color: white;
+                background-color: black;
+                display: inline-block;
+                width: 20%;
+            }
+            li.menu:hover {
+                background-color: red;
+            }
+
+            li#first {
+            }
+            ul li {
+
+                color: red;
+            }
+
+            </style>
+    </head>
+    <body>
+
+
+        <h1> My book webpage </h1>
+        <ol>
+            <li class=menu id=first> Harry Potter</li>
+            <a href="google.com"> <li class=menu> Robinson Curusoe </li></a>
+            <li class=menu> Metamorphosis </li>
+            <li class=menu> Lord of the Rings </li>
+        </ol>
+
+        <h2> Famous characters </h2>
+        <ul>
+            <li> Gandalf</li>
+            <li> Dorah </li>
+            <li> Voldemort </li>
+        </ul>
+
+
+    </body>
+</html>
