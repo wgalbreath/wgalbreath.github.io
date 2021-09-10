@@ -24,4 +24,7 @@ table, th, td {
     background-color: salmon;
 }
 
-#animalsList
+#animalsList {
+    font-family: Georgia;
+    color: green;
+}
