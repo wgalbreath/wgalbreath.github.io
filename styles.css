@@ -8,6 +8,10 @@ a {
     color: aqua;
 }
 
+h1 {
+    font-family: Georgia;
+}
+
 h3:hover {
     background-color: blueviolet;
 }
@@ -19,3 +23,5 @@ table, th, td {
 .highlight {
     background-color: salmon;
 }
+
+#animalsList
