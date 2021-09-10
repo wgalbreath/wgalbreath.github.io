@@ -11,3 +11,7 @@ a {
 h3:hover {
     background-color: blueviolet;
 }
+
+table, th, td {
+    border: 1px solid black;
+}
