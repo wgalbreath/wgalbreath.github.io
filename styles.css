@@ -21,6 +21,15 @@ h3:hover {
     background-color: blueviolet;
 }
 
+#content {
+    background-color: rgb(225, 0, 255);
+    text-decoration: underline;
+}
+
+#smile {
+    background-color: yellow;
+}
+
 table, th, td {
     border: 1px solid black;
 }
