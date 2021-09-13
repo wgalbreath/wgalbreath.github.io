@@ -21,6 +21,10 @@ h3:hover {
     background-color: blueviolet;
 }
 
+#bee {
+    text-align: center;
+}
+
 #content {
     background-color: rgb(225, 0, 255);
     text-decoration: underline;
