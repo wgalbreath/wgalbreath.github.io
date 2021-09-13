@@ -17,10 +17,6 @@ h1 {
     font-family: Comic Sans MS;
 }
 
-h3:hover {
-    background-color: blueviolet;
-}
-
 #bee {
     text-align: center;
 }
@@ -52,13 +48,17 @@ table, th, td {
     border: 5px outset turquoise;
     background-color: pink;
     text-align: center;
-    }
+}
 
-.sect2{
+.sect2 {
     border: 5px outset lime;
     background-color: orange;
     text-align: center;
-    }
+}
+
+h3:hover {
+    background-color: blueviolet;
+}
 
 .table {
     background-color: red;
