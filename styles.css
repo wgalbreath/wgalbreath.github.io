@@ -48,6 +48,19 @@ table, th, td {
     color: green;
 }
 
+.sect1 {
+    border: 5px outset turquoise;
+    background-color: pink;
+    text-align: center;
+    }
+
+.sect2{
+    border: 5px outset lime;
+    background-color: orange;
+    text-align: center;
+    }
+
 .table {
     background-color: red;
+    text-align: center;
 }
