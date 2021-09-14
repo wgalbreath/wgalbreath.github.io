@@ -1,0 +1,76 @@
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: green;
+    }
+}
+
+a {
+    color: green;
+}
+
+a:hover {
+    color: blue;
+    background-color: yellow;
+}
+
+h1 {
+    font-family: Comic Sans MS;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.bee {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+#content {
+    background-color: rgb(225, 0, 255);
+    text-decoration: underline;
+}
+
+#smile {
+    color: red;
+    background-color: yellow;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+.highlight {
+    background-color: salmon;
+}
+
+#animalsList {
+    font-family: Georgia;
+    color: green;
+}
+
+.sect1 {
+    border: 5px outset turquoise;
+    background-color: pink;
+    text-align: center;
+}
+
+.sect2 {
+    border: 5px outset lime;
+    background-color: orange;
+    text-align: center;
+}
+
+h3:hover {
+    background-color: blueviolet;
+}
+
+.table {
+    background-color: red;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.definition {
+    color: purple;
+    background-color: tan;
+}
